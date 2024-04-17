@@ -1,3 +1,9 @@
-<resources>
-    <string name="app_name">Test0417</string>
-</resources>
+    <resources>
+        <string name="app_name">Test0417</string>
+        <string name="yummy">美味蟹堡</string>
+        <string name="sausage">義式香腸堡</string>
+        <string name="fruit">蔬菜水果堡</string>
+        <string name="banana">香蕉潛艇堡</string>
+        <string name="chicken">香烤雞肉堡</string>
+        <string name="selected_items">Selected Items</string>
+    </resources>
